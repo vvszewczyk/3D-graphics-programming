@@ -54,6 +54,7 @@ ExportedObj/
 *.mdb
 *.opendb
 UpgradeLog.htm
+*.mat
 
 *.VC.db
 **/.vscode/

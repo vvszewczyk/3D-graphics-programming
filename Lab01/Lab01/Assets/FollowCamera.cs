@@ -7,7 +7,7 @@ public class FollowCamera : MonoBehaviour
     public Transform lookAtTarget;
     public Vector3 offsetPosition = new Vector3(0, 3, -6);
     public bool lookAt = true;
-    public float smoothSpeed = 0.5F;
+    public float smoothSpeed = 0.05F;
     public Vector3 lookAtOffset;
 
     void FixedUpdate()
